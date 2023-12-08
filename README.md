@@ -4,14 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PDF Link Example</title>
+    <title>Embedded PDF Example</title>
 </head>
 <body>
 
-<h2>PDF Link Example</h2>
+  <h2>Embedded PDF Example</h2>
 
-<p>Click the link below to view or download the PDF:</p>
-<a href="https://github.com/cabby1234/OWASPJuiceShop/files/13610828/OWASP.Juice.Shop.pdf" target="_blank">View PDF</a>
+<iframe src="https://github.com/cabby1234/OWASPJuiceShop/files/13610835/OWASP.Juice.Shop.pdf" width="100%" height="600px"></iframe>
 
 </body>
 </html>
+[OWASP.Juice.Shop.pdf](https://github.com/cabby1234/OWASPJuiceShop/files/13610835/OWASP.Juice.Shop.pdf)
