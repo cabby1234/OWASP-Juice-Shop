@@ -14,4 +14,3 @@
 
 </body>
 </html>
-[OWASP.Juice.Shop.pdf](https://github.com/cabby1234/OWASPJuiceShop/files/13610835/OWASP.Juice.Shop.pdf)
