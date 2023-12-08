@@ -6,7 +6,7 @@ OWASP Juice Shop is a project that serves as a great platform for testing web ap
 
 <h2>Exploit Analysis</h2>
 
-<p>Thank you for checking out this project. You can <a href="https://github.com/cabby1234/OWASPJuiceShop/files/13610856/OWASP.Juice.Shop.pdf">click here to download the PDF file.</a></p>
+<p>You can <a href="https://github.com/cabby1234/OWASPJuiceShop/files/13610856/OWASP.Juice.Shop.pdf">click here to view/download the PDF file.</a></p>
     </object>
 
 </body>
