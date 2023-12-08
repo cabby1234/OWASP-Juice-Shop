@@ -1,12 +1,8 @@
 # OWASP Juice Shop
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exploit Analysis</title>
-</head>
-<body>
+
+<h2>Description</h2>
+OWASP Juice Shop is a project that serves as a great platform for testing web application security. It incorporates a wide range of security vulnerabilities inspired by real-world scenarios, making it an ideal playground for penetration testers. The application is built on modern web technologies and includes challenges that cover aspects such as injection attacks, cross-site scripting (XSS), broken authentication, and more. I have highlighted a few of the vulnerabilites I exploited in the slideshow; along with my overall experience working through Juice Shop.
+<br />
 
 <h2>Exploit Analysis</h2>
 
