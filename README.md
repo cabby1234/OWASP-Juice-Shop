@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h2>Embedded PDF Example</h2>
+<h2>Exploit Analysis</h2>
 
 <p>Thank you for checking out this project. You can <a href="https://github.com/cabby1234/OWASPJuiceShop/files/13610856/OWASP.Juice.Shop.pdf">click here to download the PDF file.</a></p>
     </object>
