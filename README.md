@@ -10,7 +10,7 @@ OWASP Juice Shop is a project that serves as a great platform for testing web ap
 
 <h2>Environments Used </h2>
 
-- <b>Kali Linux virtual machine ran on VMware.</b>
+- <b>Kali Linux machine ran on virtualization software.</b>
 
 <h2>Exploit Analysis</h2>
 
